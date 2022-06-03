@@ -1,4 +1,5 @@
 commmit teste
 git status
 git diff
+git branch
 rebase
