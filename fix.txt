@@ -1,3 +1,4 @@
 commmit teste
 git status
+git diff
 rebase
