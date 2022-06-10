@@ -4,4 +4,5 @@ git diff
 git branch
 k8s
 git stash
+git stash 2
 rebase
