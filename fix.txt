@@ -9,4 +9,6 @@ git rebase
 git stash 3
 git stash 4
 git stash 5
+git stash 6
+git stash 7
 rebase
