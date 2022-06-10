@@ -3,4 +3,5 @@ git status
 git diff
 git branch
 k8s
+git stash
 rebase
